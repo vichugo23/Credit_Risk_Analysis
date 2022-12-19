@@ -60,5 +60,7 @@ Below are the results from the various techniques used for High-risk loans.
 ![Screenshot 2022-12-18 at 6 52 36 PM](https://user-images.githubusercontent.com/110702997/208328783-205f4494-2f23-436f-84ca-967bdf992d38.png)
 
 
+## SUMMARY
 
+Out of all the models, the 
 
