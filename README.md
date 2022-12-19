@@ -62,5 +62,5 @@ Below are the results from the various techniques used for High-risk loans.
 
 ## SUMMARY
 
-Out of all the models, the 
+Out of all the models, the balanced random forest classifier turned out to be the best option. It provided the best overall analysis. It had the best precision out of all the other models though it could still use some fine tuning.
 
