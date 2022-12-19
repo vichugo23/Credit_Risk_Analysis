@@ -41,4 +41,24 @@ Below are the results from the various techniques used for High-risk loans.
 ![Screenshot 2022-12-18 at 6 40 11 PM](https://user-images.githubusercontent.com/110702997/208328153-4370b889-de49-4db9-9a30-bdc040a4a9b0.png)
 
 
+### BALANCED RANDOM FOREST CLASSIFIER
+
+![Screenshot 2022-12-18 at 6 43 55 PM](https://user-images.githubusercontent.com/110702997/208328369-7468212f-1a80-442e-be62-bf7b2d419cef.png)
+
+![Screenshot 2022-12-18 at 6 44 25 PM](https://user-images.githubusercontent.com/110702997/208328400-2cefdbbb-c1ee-4b81-91f1-216319d5296a.png)
+
+![Screenshot 2022-12-18 at 6 44 56 PM](https://user-images.githubusercontent.com/110702997/208328438-5af49307-8a75-4f4a-a22d-0d647200ec2f.png)
+
+
+### EASY ENSEMBLE CLASSIFIER
+
+![Screenshot 2022-12-18 at 6 51 50 PM](https://user-images.githubusercontent.com/110702997/208328754-5a00117f-fe9a-499e-83a5-3947d6f433f5.png)
+
+![Screenshot 2022-12-18 at 6 52 11 PM](https://user-images.githubusercontent.com/110702997/208328769-e5cf2b53-ce17-403f-82f9-87b76b52ad21.png)
+
+
+![Screenshot 2022-12-18 at 6 52 36 PM](https://user-images.githubusercontent.com/110702997/208328783-205f4494-2f23-436f-84ca-967bdf992d38.png)
+
+
+
 
